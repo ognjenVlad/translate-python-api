@@ -1,0 +1,15 @@
+.*
+!.coveragerc
+!.env
+
+.git
+.gitignore
+
+deploy.sh
+docker-compose.yml
+Dockerfile
+.dockerignore
+.drone.yml
+
+README.md
+
